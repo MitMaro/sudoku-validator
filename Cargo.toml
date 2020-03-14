@@ -1,0 +1,7 @@
+[package]
+name = "sudoku-validator"
+version = "1.0.0"
+authors = ["Tim Oram <dev@mitmaro.ca>"]
+edition = "2018"
+
+[dependencies]
